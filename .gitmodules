@@ -8,3 +8,8 @@
 	url = https://github.com/novartis/rbest
 	shallow = true
 	registered = true
+[submodule "xgxr"]
+	path = xgxr
+	url = https://github.com/novartis/xgxr
+	shallow = true
+	registered = true
