@@ -5,6 +5,9 @@
 [submodule "RBesT"]
 	path = RBesT
 	url = https://github.com/novartis/rbest
+[submodule "monitOS"]
+	path = monitOS
+	url = https://github.com/novartis/monitos
 [submodule "xgxr"]
 	path = xgxr
 	url = https://github.com/novartis/xgxr
