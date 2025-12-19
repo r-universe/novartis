@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OncoBayes2"]
+	path = OncoBayes2
+	url = https://github.com/novartis/oncobayes2
 [submodule "RBesT"]
 	path = RBesT
 	url = https://github.com/novartis/rbest
