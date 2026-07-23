@@ -11,6 +11,9 @@
 [submodule "monitOS"]
 	path = monitOS
 	url = https://github.com/novartis/monitos
+[submodule "synadam"]
+	path = synadam
+	url = https://github.com/novartis/synadam
 [submodule "xgxr"]
 	path = xgxr
 	url = https://github.com/novartis/xgxr
