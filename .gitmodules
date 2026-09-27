@@ -8,6 +8,9 @@
 [submodule "RBesT"]
 	path = RBesT
 	url = https://github.com/novartis/rbest
+[submodule "bslibdash"]
+	path = bslibdash
+	url = https://github.com/novartis/bslibdash
 [submodule "monitOS"]
 	path = monitOS
 	url = https://github.com/novartis/monitos
