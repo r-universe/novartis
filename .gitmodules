@@ -14,6 +14,9 @@
 [submodule "monitOS"]
 	path = monitOS
 	url = https://github.com/novartis/monitos
+[submodule "orthoMTL"]
+	path = orthoMTL
+	url = https://github.com/novartis/orthomtl
 [submodule "synadam"]
 	path = synadam
 	url = https://github.com/novartis/synadam
